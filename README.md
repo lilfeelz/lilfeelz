@@ -1,5 +1,3 @@
-overview of projects under the lilfeelz umbrella:
-
 - [jakob.melchard.org](https://jakob.melchard.org)
 - [feelz.dev](https://feelz.dev)
 - [docs.feelz.org](https://docs.feelz.org)
