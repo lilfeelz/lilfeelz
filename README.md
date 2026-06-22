@@ -1,2 +1,1 @@
-- [docs.melchard.org](https://docs.melchard.org)
 - [docs.lilfeelz.org](https://docs.lilfeelz.org)
