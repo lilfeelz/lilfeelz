@@ -1,4 +1,4 @@
 - [jakob.melchard.org](https://jakob.melchard.org)
 - [feelz.dev](https://feelz.dev)
-- [docs.feelz.org](https://docs.feelz.org)
+- [docs.lilfeelz.org](https://docs.lilfeelz.org)
 - [witchblades.org](https://witchblades.org)
