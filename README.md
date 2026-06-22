@@ -1,3 +1,2 @@
+- [docs.melchard.org](https://docs.melchard.org)
 - [docs.lilfeelz.org](https://docs.lilfeelz.org)
-- [feelz.dev](https://feelz.dev)
-- [witchblades.org](https://witchblades.org)
